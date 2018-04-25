@@ -6,7 +6,7 @@ if (msg == null) {
     console.log("There is nothing to sign");
 } else {
     signMsg(msg);
-    diffiHelmanAlg(msg);
+    diffieHelmanAlg(msg);
 }
 
 
